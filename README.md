@@ -2,7 +2,8 @@
 
 ## Introducción y objetico
 
-    En este pequeño ejercicio se pretende calcular el area y volumen de dos piscinas y así aprender y entender nuevos conceptos de la programación orientada a objetos.
+    En este pequeño ejercicio se pretende calcular el area y volumen de dos piscinas y así aprender 
+    y entender nuevos conceptos de la programación orientada a objetos.
     Primero he ideado un pseudocódigo y después lo he pasado a lenguaje Java para ejecutarlo.
 
 ## Pseudocódigo
