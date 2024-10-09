@@ -1,6 +1,6 @@
 # CalculosPiscinas-Sprint2
 
-## Introducción y objetico
+## Introducción y objetivo
 
     En este pequeño ejercicio se pretende calcular el area y volumen de dos piscinas y así aprender 
     y entender nuevos conceptos de la programación orientada a objetos.
