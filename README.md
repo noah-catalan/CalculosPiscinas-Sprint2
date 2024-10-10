@@ -2,17 +2,14 @@
 
 ## Introducción y objetivo
 
-    En este pequeño ejercicio se pretende calcular el area y volumen de dos piscinas y así aprender 
-    y entender nuevos conceptos de la programación orientada a objetos.
+    En este pequeño ejercicio se pretende calcular el area y volumen de dos piscinas.
     Primero he ideado un pseudocódigo y después lo he pasado a lenguaje Java para ejecutarlo.
 
 ## Pseudocódigo
 
-    Crear objeto piscina1
-    Asignar largo, ancho y profundidad a piscina1
-    
-    Crear objeto piscina2
-    Asignar largo, ancho y profundidad a piscina2
+
+    // Asignación de variables
+    Crear las variables de largo ancho y profundidad de las piscinas
 
     // Cálculos para conseguir el area, volumen y demás en las unidades que me interesan (metros cuadrados y litros)
     Calcular área de piscina1 (largo * ancho) y guardarlo en una variable
